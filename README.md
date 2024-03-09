@@ -1,2 +1,2 @@
 # JavaCodingPractice
-THis for Practoce
+Core Java
