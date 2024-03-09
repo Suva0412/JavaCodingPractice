@@ -1,0 +1,2 @@
+# JavaCodingPractice
+THis for Practoce
